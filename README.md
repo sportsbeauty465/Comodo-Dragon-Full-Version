@@ -240,4 +240,4 @@ This repository serves as the official landing page for Comodo Dragon. The softw
 **Get the most recent version of Comodo Dragon today!**
 
 ---
-**Last updated:** 2026-09-18 22:06:36 UTC
+**Last updated:** 2026-09-19 00:49:51 UTC
